@@ -34,4 +34,4 @@ Girl Math It is intended to remain local-first and private. If the app’s priva
 
 ## Contact
 
-For privacy questions, contact: GirlMathIt@gmail.com
+For privacy questions, contact: girlmathit@gmail.com
