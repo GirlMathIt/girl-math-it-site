@@ -16,4 +16,4 @@ No. Girl Math It does not use accounts.
 Girl Math It calculates cost per use. The more you use an item, the lower the per-use cost gets.
 
 ### How do I delete an item?
-Swipe left on an item and tap Delete, or open the item and use Delete Purchase.
+Open the item and use Delete Purchase.
